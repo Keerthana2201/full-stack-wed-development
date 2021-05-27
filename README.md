@@ -1,1 +1,1 @@
-# full-stack-wed-development
+# full-stack-web-development
